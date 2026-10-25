@@ -1,0 +1,30 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.history
+.idea/
+*.iml
+
+# Ignore all source code from public GitHub distribution
+/android/
+/ios/
+/lib/
+/linux/
+/macos/
+/web/
+/windows/
+/test/
+/scripts/
+seed_firestore.py
+build_apk.ps1
+pubspec.yaml
+pubspec.lock
+analysis_options.yaml
+.metadata
+.flutter-plugins-dependencies
+.dart_tool/
+build/
+coverage/
