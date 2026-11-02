@@ -1,9 +1,9 @@
 {
-  "version": "1.0.5",
-  "build_number": 6,
-  "release_notes": "Изчистен Light режим за всички 6 цветови теми, премахнат тъмен/авто режим за максимална чистота, тактилна вибрация и автоматична проверка за обновления.",
-  "release_date": "2026-10-25",
-  "download_url": "https://github.com/SUSCookie12/gd-lines/releases/download/v1.0.5/gd-lines-v1.0.5.6-release.apk",
+  "version": "1.0.6",
+  "build_number": 7,
+  "release_notes": "Google профил вход, роли за администратори, изчистен начален екран без щит, 4 таба в навигацията, пълно оцветяване на всички теми без остатъчен зелен цвят, филтриране на линии и двупосочни реални разписания.",
+  "release_date": "2026-11-02",
+  "download_url": "https://github.com/SUSCookie12/gd-lines/releases/download/v1.0.6/gd-lines-v1.0.6.7-release.apk",
   "is_mandatory": false,
   "min_supported_build": 1
 }
