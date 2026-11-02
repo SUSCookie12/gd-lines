@@ -28,3 +28,6 @@ analysis_options.yaml
 .dart_tool/
 build/
 coverage/
+
+firebase.json
+firestore.rules
