@@ -1,9 +1,9 @@
 {
-  "version": "1.0.8",
-  "build_number": 9,
-  "release_notes": "Официална версия за публикуване: Истински Google Sign-In с нов релизен сертификат (release.keystore), реално OCR разпознаване на текст и часове от снимка на разписание с ML Kit, динамична офлайн синхронизация и контакти на автогара от Firestore, универсални хаптики за всички Android телефони, пълно премахване на тестови данни и симулации.",
-  "release_date": "2026-11-03",
-  "download_url": "https://github.com/SUSCookie12/gd-lines/releases/download/v1.0.8/gd-lines-v1.0.8+9-release.apk",
+  "version": "1.0.9",
+  "build_number": 10,
+  "release_notes": "Версия 1.0.9: Официално 4-цветно Google векторно лого, премахнат долен помощен текст, надеждно In-App обновяване след зареждане, динамично показване на версията в настройките и оптимизирано поведение на екраните.",
+  "release_date": "2026-11-04",
+  "download_url": "https://github.com/SUSCookie12/gd-lines/releases/download/v1.0.9/gd-lines-v1.0.9+10-release.apk",
   "is_mandatory": false,
   "min_supported_build": 1
 }
