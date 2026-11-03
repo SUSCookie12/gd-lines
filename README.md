@@ -8,7 +8,7 @@
 
 Всички официални версии и инсталационни APK файлове се публикуват в раздела **[Releases](https://github.com/SUSCookie12/gd-lines/releases)**.
 
-* 📥 **[Свали най-новата версия (v1.0.5 APK)](https://github.com/SUSCookie12/gd-lines/releases/latest/download/gd-lines-v1.0.5.6-release.apk)**
+* 📥 **[Свали най-новата версия (v1.0.9 APK)](https://github.com/SUSCookie12/gd-lines/releases/download/v1.0.9/gd-lines-v1.0.9.10-release.apk)**
 
 ---
 
