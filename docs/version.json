@@ -1,9 +1,9 @@
 {
-  "version": "1.0.10",
-  "build_number": 11,
-  "release_notes": "Версия 1.0.10: 100% безплатни карти с OpenStreetMap & Esri сателит, следене на автобус по родопските дефилета, както и избор и филтриране по точна автогара (Централна автогара vs Овча купел за София).",
-  "release_date": "2026-11-09",
-  "download_url": "https://github.com/SUSCookie12/gd-lines/releases/download/v1.0.10/gd-lines-v1.0.10.11-release.apk",
+  "version": "1.0.11",
+  "build_number": 12,
+  "release_notes": "Версия 1.0.11: Напълно отделени и точни маршрути за София (Централна автогара vs Автогара Овча купел) с индивидуални филтърни бутони; пълна система за Android системни известия със запитване за разрешение при първо стартиране и персонализирани категории (закъснения, отменени курсове, потвърждения, само за любими); изчистени фиктивни текстове и подобрена граматика.",
+  "release_date": "2026-11-10",
+  "download_url": "https://github.com/SUSCookie12/gd-lines/releases/download/v1.0.11/gd-lines-v1.0.11-release.apk",
   "is_mandatory": false,
   "min_supported_build": 1
 }
