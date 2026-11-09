@@ -1,9 +1,9 @@
 {
-  "version": "1.0.9",
-  "build_number": 10,
-  "release_notes": "Версия 1.0.9: Официално 4-цветно Google векторно лого, премахнат долен помощен текст, надеждно In-App обновяване след зареждане, динамично показване на версията в настройките и оптимизирано поведение на екраните.",
-  "release_date": "2026-11-04",
-  "download_url": "https://github.com/SUSCookie12/gd-lines/releases/download/v1.0.9/gd-lines-v1.0.9.10-release.apk",
+  "version": "1.0.10",
+  "build_number": 11,
+  "release_notes": "Версия 1.0.10: 100% безплатни карти с OpenStreetMap & Esri сателит, следене на автобус по родопските дефилета, както и избор и филтриране по точна автогара (Централна автогара vs Овча купел за София).",
+  "release_date": "2026-11-09",
+  "download_url": "https://github.com/SUSCookie12/gd-lines/releases/download/v1.0.10/gd-lines-v1.0.10.11-release.apk",
   "is_mandatory": false,
   "min_supported_build": 1
 }
